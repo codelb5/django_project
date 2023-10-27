@@ -15,3 +15,7 @@
 - in django each app is an individual instance, we can transfer any app from one project to other if we want.
 ```python manage.py startapp <app_name>```
 - we already have our main app same as our project name.
+
+### created urls.py inside blog app to navigate our webpage
+
+# routed our blog app urls with main app urls
