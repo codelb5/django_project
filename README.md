@@ -18,4 +18,8 @@
 
 ### created urls.py inside blog app to navigate our webpage
 
-# routed our blog app urls with main app urls
+### routed our blog app urls with main app urls
+
+### updated the setings.py with blog apps.py config
+
+### added html template to our blog webpage, home and about
