@@ -23,3 +23,5 @@
 ### updated the setings.py with blog apps.py config
 
 ### added html template to our blog webpage, home and about
+
+### created posts in home page
