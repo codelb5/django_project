@@ -30,4 +30,6 @@
 - this file holds the base template for all our webpages
 - we extended this template to our home page and about page.
 - this gives us the advantage to make changes to the base template from a single file itself.
-- the other web pages will have only the contens specific to that page.
+- the other web pages will have only the contents specific to that page.
+
+# added sample bootstrap for styling our webpages
